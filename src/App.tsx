@@ -1,4 +1,4 @@
-import React, { createRef, useEffect, useRef, useState } from 'react'
+import React, { useState } from 'react'
 import { render } from 'react-dom'
 import { GlobalStyle } from './styles/GlobalStyle'
 import { Button, Grid, makeStyles, Snackbar, TextField, Typography } from '@material-ui/core'
